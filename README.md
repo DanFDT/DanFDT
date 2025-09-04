@@ -1,10 +1,10 @@
 # My First Markdown File
 
-# Hello <h1>
+# Hello (h1 tag) 
 
-## Hello <h2>
+## Hello (h2 tag)
 
-###### Hello <h6>
+###### Hello (h6 tag)
 
 *italic*
 _italic_
